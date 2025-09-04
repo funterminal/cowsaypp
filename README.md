@@ -32,7 +32,7 @@ cowsay++ is an significant and feature-rich enhanced version of the classic cows
 To install cowsay++, run the following command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/funterminal/cowsaypp/refs/heads/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/funterminal/cowsaypp/refs/heads/main/cowsaypp.py | bash
 ```
 
 ## Dependencies
